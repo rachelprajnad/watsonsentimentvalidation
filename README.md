@@ -22,9 +22,3 @@ Dataset ini berisi kolom `text` dan kolom `airline_sentiment` yang merupakan lab
 - Hasil analisis dibandingkan dengan label asli dari dataset untuk evaluasi performa.  
 - Proses ini membantu memvalidasi keandalan model Watson dalam konteks tweet nyata.
 
----
-
-## Cara Menjalankan
-
-1. Download dataset dari link Kaggle dan letakkan file `Tweets.csv` di folder kerja.  
-2. Install dependencies dengan:  
